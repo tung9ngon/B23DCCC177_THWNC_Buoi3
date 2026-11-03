@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Bài thực hành 3: Class Deadline Hub",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "type": "Bài thực hành",
+    "description": "Xây dựng cổng deadline của lớp bằng Next.js: SSG/ISR/SSR, NextAuth, Middleware, SEO. Nộp mã nguồn và README.",
+    "dueAt": "2026-11-10T23:59:00+07:00"
+  },
+  {
+    "id": "2",
+    "title": "Bài thực hành 2: Routing và Layout",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "type": "Bài thực hành",
+    "description": "Thực hành route group, layout lồng nhau, loading và error boundary.",
+    "dueAt": "2026-10-27T23:59:00+07:00"
+  },
+  {
+    "id": "3",
+    "title": "Đồ án cuối kỳ: Đăng ký đề tài",
+    "subjectSlug": "lap-trinh-web-nang-cao",
+    "type": "Đồ án",
+    "description": "Nhóm 3–4 sinh viên đăng ký đề tài đồ án và nộp bản mô tả chức năng.",
+    "dueAt": "2026-11-20T17:00:00+07:00"
+  },
+  {
+    "id": "4",
+    "title": "Bài tập SQL nâng cao",
+    "subjectSlug": "co-so-du-lieu",
+    "type": "Bài tập",
+    "description": "Viết 15 câu truy vấn có JOIN, GROUP BY, subquery trên CSDL bán hàng.",
+    "dueAt": "2026-11-06T23:59:00+07:00"
+  },
+  {
+    "id": "5",
+    "title": "Kiểm tra giữa kỳ Cơ sở dữ liệu",
+    "subjectSlug": "co-so-du-lieu",
+    "type": "Kiểm tra",
+    "description": "Kiểm tra trên giấy 60 phút: đại số quan hệ và chuẩn hoá.",
+    "dueAt": "2026-10-30T07:00:00+07:00"
+  },
+  {
+    "id": "6",
+    "title": "Báo cáo thiết kế CSDL đồ án",
+    "subjectSlug": "co-so-du-lieu",
+    "type": "Báo cáo",
+    "description": "Nộp sơ đồ ERD, lược đồ quan hệ và script tạo bảng.",
+    "dueAt": "2026-11-27T23:59:00+07:00"
+  },
+  {
+    "id": "7",
+    "title": "Lab 4: Cấu hình VLAN",
+    "subjectSlug": "mang-may-tinh",
+    "type": "Bài thực hành",
+    "description": "Cấu hình VLAN và inter-VLAN routing trên Packet Tracer, nộp file .pkt.",
+    "dueAt": "2026-11-04T23:59:00+07:00"
+  },
+  {
+    "id": "8",
+    "title": "Bài tập chia mạng con",
+    "subjectSlug": "mang-may-tinh",
+    "type": "Bài tập",
+    "description": "Giải 10 bài chia subnet và VLSM.",
+    "dueAt": "2026-10-25T23:59:00+07:00"
+  },
+  {
+    "id": "9",
+    "title": "Kiểm tra giữa kỳ Mạng máy tính",
+    "subjectSlug": "mang-may-tinh",
+    "type": "Kiểm tra",
+    "description": "Trắc nghiệm 45 phút trên LMS.",
+    "dueAt": "2026-11-13T09:00:00+07:00"
+  },
+  {
+    "id": "10",
+    "title": "Đặc tả yêu cầu phần mềm (SRS)",
+    "subjectSlug": "cong-nghe-phan-mem",
+    "type": "Báo cáo",
+    "description": "Viết tài liệu SRS cho đề tài nhóm theo mẫu IEEE 830.",
+    "dueAt": "2026-11-08T23:59:00+07:00"
+  },
+  {
+    "id": "11",
+    "title": "Biểu đồ Use Case và Activity",
+    "subjectSlug": "cong-nghe-phan-mem",
+    "type": "Bài tập",
+    "description": "Vẽ biểu đồ use case tổng quát và 3 biểu đồ activity.",
+    "dueAt": "2026-10-31T23:59:00+07:00"
+  },
+  {
+    "id": "12",
+    "title": "Kế hoạch kiểm thử",
+    "subjectSlug": "cong-nghe-phan-mem",
+    "type": "Báo cáo",
+    "description": "Lập test plan và 20 test case cho chức năng chính.",
+    "dueAt": "2026-12-04T23:59:00+07:00"
+  }
+]

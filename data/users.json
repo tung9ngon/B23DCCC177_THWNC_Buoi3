@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Admin Lớp D23",
+    "email": "admin@ptit.edu.vn",
+    "passwordHash": "$2b$10$YOoohzW08x.a/xT1EuMYDeQWfGkb9C3TohUcBf6HFzgm6zGC6VR5y",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "Sinh viên PTIT",
+    "email": "sv@ptit.edu.vn",
+    "passwordHash": "$2b$10$tl86ti8YZVjUGwSPqB/uneHB9WDkbOQONpZb5U7Jspoaq38N3a7n.",
+    "role": "user"
+  }
+]
